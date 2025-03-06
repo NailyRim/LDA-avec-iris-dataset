@@ -1,4 +1,4 @@
-# LDA-avec-iris-dataset
+# QDA-avec-iris-dataset
 programme python
 
 import numpy as np
